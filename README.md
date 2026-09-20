@@ -16,7 +16,7 @@ This selection covers 3,000,010 one-word domains carrying positive-sentiment nam
 
 **Public extract:** 1,000 rows · **Live catalog:** 4,289,103 domains · **Median ask:** $217.25 · **High-demand under $2,500:** 6,923
 
-**Last updated:** 2026-09-19
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/positive`
 **Best for:** founders, investors, studios
 
@@ -72,7 +72,7 @@ print(df.head())
 | aid.phd         | premium   | $411.25   | —             | medium         | low    | 3      | name.com                                     |
 | won.gmbh        | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                                     |
 | mum.net         | resell    | —         | —             | high           | low    | 3      | GoDaddy Online Services Cayman Islands Ltd.  |
-| Ann.guide       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                     |
+| ann.guide       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                     |
 | aery.partners   | available | $10.48    | $88.98        | low            | low    | 4      | namecheap                                    |
 | sea.skin        | resell    | —         | —             | high           | low    | 3      | Dynadot LLC                                  |
 | fly.rentals     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                     |
@@ -83,7 +83,7 @@ print(df.head())
 | bali.tax        | resell    | —         | —             | medium         | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
 | map.love        | premium   | $5,200    | $10,400       | high           | medium | 3      | namecheap                                    |
 | asia.protection | available | $1,999.99 | $2,049.99     | high           | low    | 4      | namesilo                                     |
-| beer.bid        | resell    | —         | —             | high           | low    | 4      | Porkbun                                      |
+| beer.bid        | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Positive One-Word Domains*. Version 2026-09-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Positive One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
