@@ -16,7 +16,7 @@ This selection covers 3,000,010 one-word domains carrying positive-sentiment nam
 
 **Public extract:** 1,000 rows · **Live catalog:** 4,289,103 domains · **Median ask:** $217.25 · **High-demand under $2,500:** 6,923
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/positive`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| act.army        | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
-| sports.theater  | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc                                  |
-| aid.lease       | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                     |
-| suv.mba         | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
-| mom.club        | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                             |
-| aid.phd         | premium   | $411.25   | —             | medium         | low    | 3      | name.com                                     |
-| won.gmbh        | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                                     |
-| mum.net         | resell    | —         | —             | high           | low    | 3      | GoDaddy Online Services Cayman Islands Ltd.  |
-| ann.guide       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                     |
-| aery.partners   | available | $10.48    | $88.98        | low            | low    | 4      | namecheap                                    |
-| sea.skin        | resell    | —         | —             | high           | low    | 3      | Dynadot LLC                                  |
-| fly.rentals     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                     |
-| agog.limited    | available | $14.99    | $52.99        | low            | low    | 4      | name.com                                     |
-| suv.services    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                             |
-| hub.eco         | premium   | $1,875    | —             | high           | medium | 3      | name.com                                     |
-| airy.tennis     | available | $65.99    | $65.99        | low            | low    | 4      | namesilo                                     |
-| bali.tax        | resell    | —         | —             | medium         | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| map.love        | premium   | $5,200    | $10,400       | high           | medium | 3      | namecheap                                    |
-| asia.protection | available | $1,999.99 | $2,049.99     | high           | low    | 4      | namesilo                                     |
-| beer.bid        | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                  |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| act.army       | available | $18.99    | $39.99        | high           | low    | 3      | namesilo                                     |
+| sports.theater | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc                                  |
+| aid.lease      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                     |
+| suv.mba        | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
+| mom.club       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                             |
+| aid.phd        | premium   | $411.25   | —             | high           | low    | 3      | name.com                                     |
+| veg.hair       | available | $1.65     | $15.75        | high           | low    | 3      | namesilo                                     |
+| mum.net        | resell    | —         | —             | high           | low    | 3      | GoDaddy Online Services Cayman Islands Ltd.  |
+| ann.guide      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                     |
+| won.gmbh       | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                                     |
+| sea.skin       | resell    | —         | —             | high           | low    | 3      | Dynadot LLC                                  |
+| hub.eco        | premium   | $1,875    | —             | high           | medium | 3      | name.com                                     |
+| aery.partners  | available | $10.48    | $88.98        | high           | low    | 4      | namecheap                                    |
+| suv.services   | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                             |
+| map.love       | premium   | $5,200    | $10,400       | high           | medium | 3      | namecheap                                    |
+| agog.limited   | available | $14.99    | $52.99        | high           | low    | 4      | name.com                                     |
+| bali.tax       | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| usa.blog       | premium   | $3,146.25 | —             | high           | medium | 3      | name.com                                     |
+| airy.tennis    | available | $65.99    | $65.99        | high           | low    | 4      | namesilo                                     |
+| beer.bid       | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Positive One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Positive One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
