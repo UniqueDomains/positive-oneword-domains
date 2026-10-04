@@ -25,7 +25,7 @@ This selection covers 3,000,010 one-word domains carrying positive-sentiment nam
 <p align="center">
   <a href="https://unique.domains/domains/positive?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./positive.csv">CSV</a> / <a href="./positive.json">JSON</a>
-  · <a href="https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=top_methodology"><b>📖 Glossary</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
@@ -67,22 +67,22 @@ print(df.head())
 | adi.diet        | available | $104.99   | $114.99       | high           | low    | 3      | namesilo                                                           |
 | dna.tours       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                                        |
 | fan.photography | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo                                                           |
-| bsc.forex       | available | $10.55    | $83           | high           | low    | 3      | spaceship                                                          |
+| jay.immo        | available | $27.20    | $27.20        | high           | low    | 3      | cloudflare                                                         |
 | fan.app         | resell    | —         | —             | high           | medium | 3      | united-domains AG                                                  |
 | nyc.soy         | premium   | $309.67   | $309.67       | high           | medium | 3      | spaceship                                                          |
-| jay.immo        | available | $27.20    | $27.20        | high           | low    | 3      | cloudflare                                                         |
+| kfc.lease       | available | $56.99    | $56.99        | high           | low    | 3      | namesilo                                                           |
 | beer.farm       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                                        |
 | pet.ski         | premium   | $854      | $854          | high           | medium | 3      | namesilo                                                           |
-| kfc.lease       | available | $56.99    | $56.99        | high           | low    | 3      | namesilo                                                           |
+| nhs.srl         | available | $28.04    | $28.04        | high           | low    | 3      | dynadot                                                            |
 | firm.eu         | resell    | —         | —             | high           | low    | 4      | Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html |
 | able.observer   | premium   | $29.50    | $29.50        | high           | low    | 4      | namesilo                                                           |
-| nhs.srl         | available | $28.04    | $28.04        | high           | low    | 3      | dynadot                                                            |
+| pls.christmas   | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                                           |
 | badge.zone      | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 24                                                  |
 | avon.makeup     | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo                                                           |
-| pls.christmas   | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                                           |
+| she.nyc         | available | $26.08    | $26.08        | high           | low    | 3      | spaceship                                                          |
 | birch.ltd       | resell    | —         | —             | high           | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            |
 | cats.download   | premium   | $640      | $77.35        | high           | low    | 4      | namesilo                                                           |
-| she.nyc         | available | $26.08    | $26.08        | high           | low    | 3      | spaceship                                                          |
+| taj.tools       | available | $7.45     | $29.18        | high           | low    | 3      | spaceship                                                          |
 | cosmic.gallery  | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC                                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -152,7 +152,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 ## 🔗 Related links
 
 - [Live search](https://unique.domains/domains/positive?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=top_open_search)
-- [How the data is built](https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=top_methodology)
+- [Glossary](https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
