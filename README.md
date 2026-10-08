@@ -16,7 +16,7 @@ This selection covers 3,000,010 one-word domains carrying positive-sentiment nam
 
 **Public extract:** 1,000 rows · **Live catalog:** 4,594,832 domains · **Median ask:** $202.44 · **High-demand under $2,500:** 21,452
 
-**Last updated:** 2026-10-07
+**Last updated:** 2026-10-08
 **Canonical page:** `https://unique.domains/domains/positive`
 **Best for:** founders, investors, studios
 
@@ -72,7 +72,7 @@ print(df.head())
 | nyc.soy         | premium   | $309.67   | $309.67       | high           | medium | 3      | spaceship                                                          |
 | kfc.lease       | available | $56.99    | $56.99        | high           | low    | 3      | namesilo                                                           |
 | beer.farm       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                                        |
-| pet.ski         | premium   | $854      | $854          | high           | medium | 3      | namesilo                                                           |
+| pet.ski         | premium   | $800.50   | $854          | high           | medium | 3      | unstoppable                                                        |
 | nhs.srl         | available | $28.04    | $28.04        | high           | low    | 3      | dynadot                                                            |
 | firm.eu         | resell    | —         | —             | high           | low    | 4      | Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html |
 | avon.makeup     | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo                                                           |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Positive One-Word Domains*. Version 2026-10-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Positive One-Word Domains*. Version 2026-10-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
