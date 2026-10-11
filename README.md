@@ -16,7 +16,7 @@ This selection covers 3,000,010 one-word domains carrying positive-sentiment nam
 
 **Public extract:** 1,000 rows · **Live catalog:** 4,594,832 domains · **Median ask:** $202.44 · **High-demand under $2,500:** 21,452
 
-**Last updated:** 2026-10-10
+**Last updated:** 2026-10-11
 **Canonical page:** `https://unique.domains/domains/positive`
 **Best for:** founders, investors, studios
 
@@ -76,13 +76,13 @@ print(df.head())
 | nhs.srl         | available | $28.04    | $28.04        | high           | low    | 3      | dynadot                                                            |
 | firm.eu         | resell    | —         | —             | high           | low    | 4      | Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html |
 | avon.makeup     | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo                                                           |
-| nlp.apartments  | available | $45.74    | $45.74        | high           | low    | 3      | spaceship                                                          |
+| pls.christmas   | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                                           |
 | badge.zone      | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 24                                                  |
 | cats.download   | premium   | $640      | $77.35        | high           | low    | 4      | namesilo                                                           |
-| pls.christmas   | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                                           |
+| she.nyc         | available | $26.08    | $26.08        | high           | low    | 3      | spaceship                                                          |
 | birch.ltd       | resell    | —         | —             | high           | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            |
 | deal.food       | premium   | $227.50   | $325          | high           | low    | 4      | namecheap                                                          |
-| she.nyc         | available | $26.08    | $26.08        | high           | low    | 3      | spaceship                                                          |
+| taj.tools       | available | $7.45     | $29.18        | high           | low    | 3      | spaceship                                                          |
 | cosmic.gallery  | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC                                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Positive One-Word Domains*. Version 2026-10-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Positive One-Word Domains*. Version 2026-10-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
