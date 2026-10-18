@@ -16,7 +16,7 @@ This selection covers 3,000,010 one-word domains carrying positive-sentiment nam
 
 **Public extract:** 1,000 rows · **Live catalog:** 4,594,832 domains · **Median ask:** $202.44 · **High-demand under $2,500:** 21,452
 
-**Last updated:** 2026-10-17
+**Last updated:** 2026-10-18
 **Canonical page:** `https://unique.domains/domains/positive`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
-| adi.diet        | available | $104.99   | $114.99       | high           | low    | 3      | namesilo                                                           |
-| dna.tours       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                                        |
-| fan.photography | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo                                                           |
-| aly.futbol      | available | $5.38     | $13.66        | high           | low    | 3      | spaceship                                                          |
-| fan.app         | resell    | —         | —             | high           | medium | 3      | united-domains AG                                                  |
-| nyc.soy         | premium   | $309.67   | $309.67       | high           | medium | 3      | spaceship                                                          |
-| jay.immo        | available | $27.20    | $27.20        | high           | low    | 3      | cloudflare                                                         |
-| beer.farm       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                                        |
-| pet.ski         | premium   | $800.50   | $854          | high           | medium | 3      | unstoppable                                                        |
-| kfc.lease       | available | $56.99    | $56.99        | high           | low    | 3      | namesilo                                                           |
-| firm.eu         | resell    | —         | —             | high           | low    | 4      | Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html |
-| alim.bid        | premium   | $455      | $65           | high           | low    | 4      | namecheap                                                          |
-| nhs.srl         | available | $28.04    | $28.04        | high           | low    | 3      | dynadot                                                            |
-| badge.zone      | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 24                                                  |
-| avon.makeup     | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo                                                           |
-| pls.christmas   | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                                           |
-| birch.ltd       | resell    | —         | —             | high           | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            |
-| deal.food       | premium   | $227.50   | $325          | high           | low    | 4      | namecheap                                                          |
-| she.nyc         | available | $26.08    | $26.08        | high           | low    | 3      | spaceship                                                          |
-| cosmic.gallery  | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC                                                   |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
+| adi.diet       | available | $104.99   | $114.99       | high           | low    | 3      | namesilo                                                           |
+| dna.tours      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                                        |
+| nyc.soy        | premium   | $309.67   | $309.67       | high           | medium | 3      | spaceship                                                          |
+| jay.immo       | available | $27.20    | $27.20        | high           | low    | 3      | cloudflare                                                         |
+| beer.farm      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                                        |
+| pet.ski        | premium   | $800.50   | $854          | high           | medium | 3      | unstoppable                                                        |
+| kfc.lease      | available | $56.99    | $56.99        | high           | low    | 3      | namesilo                                                           |
+| firm.eu        | resell    | —         | —             | high           | low    | 4      | Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html |
+| alim.bid       | premium   | $455      | $65           | high           | low    | 4      | namecheap                                                          |
+| nhs.srl        | available | $28.04    | $28.04        | high           | low    | 3      | dynadot                                                            |
+| badge.zone     | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 24                                                  |
+| avon.makeup    | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo                                                           |
+| pls.christmas  | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                                           |
+| birch.ltd      | resell    | —         | —             | high           | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            |
+| earn.dad       | premium   | $257.92   | $257.92       | high           | low    | 4      | spaceship                                                          |
+| she.nyc        | available | $26.08    | $26.08        | high           | low    | 3      | spaceship                                                          |
+| cosmic.gallery | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC                                                   |
+| elms.study     | premium   | $51.95    | $51.95        | high           | low    | 4      | spaceship                                                          |
+| aqua.jetzt     | available | $23.99    | $23.99        | high           | medium | 4      | namesilo                                                           |
+| evolve.best    | resell    | —         | —             | high           | medium | 6      | Dynadot Inc                                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Positive One-Word Domains*. Version 2026-10-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Positive One-Word Domains*. Version 2026-10-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
