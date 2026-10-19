@@ -10,6 +10,7 @@ The CSV and JSON files are the public extract published for that search. Unique 
 
 - Repository copy, links, counts, topics, and asset filenames are generated from one manifest per dataset repo.
 - The README live catalog count uses the public landing response when it is available.
+- Counts and the median ask marked with a tilde are estimated from a 2 percent page sample of the catalog, the counts rounded to three significant digits; they move between nights. The names listed in this repository are real rows.
 - The public extract size comes from the generated CSV and JSON payload for this repository.
 
 ## What Changes Over Time
