@@ -16,7 +16,7 @@ This selection covers 3,000,010 one-word domains carrying positive-sentiment nam
 
 **Public extract:** 1,000 rows · **Live catalog:** ~5,490,000 domains · **Median ask:** ~$149.80 · **High-demand under $2,500:** ~25,100
 
-**Last updated:** 2026-10-27
+**Last updated:** 2026-10-28
 **Canonical page:** `https://unique.domains/domains/positive`
 **Best for:** founders, investors, studios
 
@@ -68,22 +68,22 @@ print(df.head())
 | dna.tours       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                                        |
 | nyc.soy         | premium   | $309.67   | $309.67       | high           | low    | 3      | spaceship                                                          |
 | fan.photography | available | $5.66     | $32.44        | high           | medium | 3      | porkbun                                                            |
-| fan.app         | resell    | —         | —             | high           | medium | 3      | united-domains AG                                                  |
+| beer.farm       | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                                        |
 | pet.ski         | premium   | $800.50   | $854          | high           | medium | 3      | unstoppable                                                        |
 | jay.immo        | available | $27.20    | $27.20        | high           | low    | 3      | cloudflare                                                         |
-| beer.farm       | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                                        |
+| firm.eu         | resell    | —         | —             | high           | medium | 4      | Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html |
 | deal.food       | premium   | $275      | $275          | high           | low    | 4      | dynadot                                                            |
 | kfc.lease       | available | $56.99    | $56.99        | high           | low    | 3      | namesilo                                                           |
-| firm.eu         | resell    | —         | —             | high           | medium | 4      | Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html |
+| birch.ltd       | resell    | —         | —             | high           | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            |
 | earn.dad        | premium   | $257.92   | $257.92       | high           | medium | 4      | spaceship                                                          |
 | nhs.srl         | available | $28.04    | $28.04        | high           | low    | 3      | dynadot                                                            |
-| birch.ltd       | resell    | —         | —             | high           | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            |
+| cosmic.gallery  | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC                                                   |
 | elms.study      | premium   | $51.95    | $51.95        | medium         | low    | 4      | spaceship                                                          |
 | pls.christmas   | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                                           |
-| cosmic.gallery  | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC                                                   |
+| evolve.best     | resell    | —         | —             | high           | medium | 6      | Dynadot Inc                                                        |
 | give.diy        | premium   | $910      | $1,300        | high           | medium | 4      | namecheap                                                          |
 | she.nyc         | available | $26.08    | $26.08        | high           | medium | 3      | spaceship                                                          |
-| evolve.best     | resell    | —         | —             | high           | medium | 6      | Dynadot Inc                                                        |
+| mantra.bot      | resell    | —         | —             | high           | low    | 6      | Dynadot, LLC                                                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Positive One-Word Domains*. Version 2026-10-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Positive One-Word Domains*. Version 2026-10-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
