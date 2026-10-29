@@ -158,7 +158,7 @@ ab8ae483-68ca-40a5-a6d7-12866f0dd1e5,rides.immo,available,36.98,43.98,medium,low
 48fb966e-a8bf-4e44-81b8-5d95a6d4edce,honeyfund.menu,available,27.99,27.99,high,low,9,namesilo,,,18/10/2026 01:05
 0b052186-d22d-4c72-b0d4-868293566321,defibrillator.limited,available,29.18,29.18,medium,low,13,spaceship,,,08/10/2026 12:41
 0c369402-ef93-45d9-ab28-1bdd4f6e00ee,mantra.bot,resell,,,high,low,6,"Dynadot, LLC",29/08/2026 07:38,29/08/2027 07:38,30/09/2026 03:49
-d8c3eadf-9646-4454-894f-66f9e0d96142,domain.realty,premium,1811.45,2587.7,high,high,6,spaceship,,,26/10/2026 10:10
+d8c3eadf-9646-4454-894f-66f9e0d96142,domain.realty,premium,2750,2750,high,high,6,dynadot,,,28/10/2026 10:19
 7281bb61-1fab-49c3-a8d8-7e29f0b22f1b,miaou.salon,available,62.48,77.98,high,low,5,namecheap,,,19/10/2026 06:41
 bb1279b1-70b1-405c-8c87-29077c7e4999,almost.gallery,available,22.97,22.97,high,low,6,spaceship,,,28/09/2026 11:54
 effb2e90-8a95-479b-93c1-6485e59c0a11,info.bot,available,,,high,medium,4,,,,20/10/2026 09:21
@@ -525,7 +525,7 @@ cfbd73cf-e7d2-408f-9612-be4384b87de2,physicians.associates,available,18.99,38.99
 4378587f-3d03-47ef-8647-bf2fc51dc8f4,catcher.reise,available,102.98,127.98,high,low,7,namecheap,,,21/09/2026 16:05
 81ee2f19-9be9-40bc-96ae-4706dbae9627,purposeful.cv,available,9.99,9.99,high,low,10,namesilo,,,09/09/2026 06:25
 39f2c66e-a1e8-40b5-8df1-4ce05686b2e9,studio.democrat,available,5.66,5.66,high,low,6,porkbun,,,27/10/2026 04:15
-463b7954-16f7-44ae-a4d6-206e1aa08123,legal.rich,available,94.99,1999,high,low,5,namesilo,,,27/09/2026 06:58
+463b7954-16f7-44ae-a4d6-206e1aa08123,legal.rich,available,94.99,1999,high,low,5,namesilo,,,28/10/2026 07:54
 c985d47b-9411-4697-a7b9-13bcf3eeb9bf,safest.gifts,available,36.99,36.99,high,low,6,namesilo,,,20/09/2026 20:39
 05fd2fa5-20a4-4be3-9a51-8e064cc30b45,subsidiary.theater,available,65.99,65.99,high,low,10,namesilo,,,05/10/2026 10:25
 250181d9-67d9-4b7c-a734-8b7fe0e73053,agile.pics,premium,2070.2,2070.2,high,medium,5,spaceship,,,23/10/2026 02:22
@@ -671,7 +671,7 @@ a0ae4b63-c5d7-4cc2-95c3-e959cd6897a7,trustful.io,resell,,,high,low,8,Dynadot Inc
 d418321f-e7b5-46bd-b386-2ed2d340d99a,sharpen.my,available,2.28,25.88,high,low,7,spaceship,,,03/10/2026 02:36
 86e54a1a-837d-407d-8799-5ce8c52865f3,patios.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,07/10/2026 04:04
 98a9975e-ee7c-4dc5-971f-9699af882a32,benew.attorney,available,62.99,62.99,high,low,5,namesilo,,,18/10/2026 10:41
-6bb1851b-83bd-4847-a825-e9e1fbe7bd5e,necklace.sarl,available,5.66,5.66,high,low,8,porkbun,,,27/09/2026 14:59
+6bb1851b-83bd-4847-a825-e9e1fbe7bd5e,necklace.sarl,available,5.38,5.38,high,low,8,spaceship,,,28/10/2026 22:19
 eb9ca39d-7be3-453e-a821-e41fd1af88d7,eyeshadow.moe,available,8.48,17.88,high,low,10,namecheap,,,15/10/2026 15:34
 5fe609a0-84a1-4f66-abfb-249275b91160,fawn.computer,available,22.5,,high,low,4,unstoppable,,,02/10/2026 15:10
 7c1e8424-1e17-4fad-a615-27fa196aad1b,enriched.exposed,available,22.49,22.49,medium,low,8,namesilo,,,02/10/2026 22:01
@@ -915,6 +915,7 @@ bbe20e5e-32e0-4402-ae70-e685e101c7bd,thinkers.info,resell,,,high,low,8,,,,30/09/
 1671a43f-20db-43ff-a567-e0823e51fef4,appreciative.today,available,22.2,22.2,high,low,12,cloudflare,,,01/10/2026 21:37
 f736bb51-8f2a-419b-84dd-c66d6e331692,psalms.bar,premium,576,576,medium,low,6,namesilo,,,24/09/2026 07:04
 ed47e8f1-0d2d-4065-a7c9-98fb5adf8f0c,proclaim.voto,available,,,high,low,8,,,,20/10/2026 09:56
+3a152f7e-76b4-4d8f-b011-d0e6b20d60f9,spanakopita.pro,available,4.99,41.99,high,low,11,godaddy,,,29/10/2026 00:57
 a2e7db7a-7cbf-4db0-b70e-9d4c364b226d,redeem.ngo,available,15.2,15.2,high,low,6,cloudflare,,,30/09/2026 02:39
 7a335ac6-78aa-4257-bb77-ea120d046e0c,ambition.hamburg,available,69.98,73.98,high,low,8,namecheap,,,18/09/2026 16:53
 7353ec7b-11b5-474f-923c-17ae30000bf1,necktie.icu,available,15.2,15.2,high,low,7,cloudflare,,,05/10/2026 12:58
@@ -998,4 +999,3 @@ a04c4fd7-7da0-4ac2-a12c-fa6e0b915b9e,bookstore.gifts,available,28.2,28.2,high,lo
 c89f2976-4716-4401-946a-9ce522e4c885,casually.ninja,available,11.98,42.98,high,low,8,namecheap,,,14/09/2026 05:25
 57066d3a-58c0-49ad-8cd4-e9cdc986d845,varsity.mobile,premium,621.2,621.2,high,low,7,spaceship,,,30/09/2026 01:38
 0d05327e-2347-417a-8896-5abdb2f90660,queens.biz,resell,,,high,low,6,Dynadot Inc,24/05/2018 00:11,24/05/2027 00:11,30/09/2026 09:00
-96430b8c-cf27-46c6-af12-688d704f4283,millinery.supplies,available,19.87,19.87,high,low,9,spaceship,,,17/10/2026 08:09
