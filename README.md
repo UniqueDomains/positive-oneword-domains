@@ -1,57 +1,15 @@
-# Positive One-Word Domains (~5,370,000)
+# Positive One-Word Domains (~5,460,000)
 
-<p align="left">
-  <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
-  <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-~5%2C370%2C000%20domains-6f42c1">
-  <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
-  <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
-</p>
+~5,460,000 names in this list today, refreshed every night.
 
-This selection covers 3,000,010 one-word domains carrying positive-sentiment names, spread across 506 TLDs. Median ask is $282.23, with most names priced under $500. Updated daily, the mix spans available, premium, and resale domains such as .expert, .ninja, and .zone.
+Live page: [unique.domains/domains/positive](https://unique.domains/domains/positive?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=top_page)
 
-> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **~5,370,000 domains** on the canonical page below.
+<img alt="updated: daily" src="https://img.shields.io/badge/updated-daily-0969da"> <img alt="extract: 1,000 rows" src="https://img.shields.io/badge/extract-1%2C000%20rows-8250df"> <img alt="formats: CSV | JSON" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b"> <img alt="licence: CC BY 4.0" src="https://img.shields.io/badge/licence-CC%20BY%204.0-2ea44f">
 
-**Public extract:** 1,000 rows · **Live catalog:** ~5,370,000 domains · **Median ask:** ~$180.73 · **High-demand under $2,500:** ~30,900
+## Download
 
-**Last updated:** 2026-11-06
-**Canonical page:** `https://unique.domains/domains/positive`
-**Best for:** founders, investors, studios
-
----
-
-<p align="center">
-  <a href="https://unique.domains/domains/positive?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
-  <b>⬇️ Download sample</b>: <a href="./positive.csv">CSV</a> / <a href="./positive.json">JSON</a>
-  · <a href="https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=top_methodology"><b>📖 Glossary</b></a>
-  · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
-</p>
-
----
-
-➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/positive?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=top_create_radar)  
-➡️ **Founders:** [Start a naming Radar from this exact search](https://unique.domains/domains/positive?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=top_start_project)  
-➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=top_api_docs)
-
----
-
-## 📦 What this repository contains
-
-This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/positive`.
-
-### Files
-
-- `positive.csv`, public CSV extract (1,000 rows)
-- `positive.json`, public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md`, field definitions for the exported files
-- `METHODOLOGY.md`, scope, refresh policy, and caveats
-- `CHANGELOG.md`, latest snapshot metadata
-- `CITATION.cff`, machine-readable dataset citation metadata
-- `LICENSE`, terms for the public extract
-
-## 🧭 Quick start
+- [positive.csv](https://github.com/UniqueDomains/positive-oneword-domains/raw/main/positive.csv), 1,000 rows
+- [positive.json](https://github.com/UniqueDomains/positive-oneword-domains/raw/main/positive.json), 1,000 rows
 
 ```python
 import pandas as pd
@@ -60,103 +18,93 @@ df = pd.read_csv("https://raw.githubusercontent.com/UniqueDomains/positive-onewo
 print(df.head())
 ```
 
-## 🗂️ Sample rows
+## Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
-| cru.republican  | available | $5.98     | $8.48         | high           | low    | 3      | namecheap                                                          |
-| firm.eu         | resell    | —         | —             | high           | medium | 4      | Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html |
-| nyc.soy         | premium   | $309.67   | $309.67       | high           | low    | 3      | spaceship                                                          |
-| fan.photography | available | $5.66     | $32.44        | high           | medium | 3      | porkbun                                                            |
-| birch.ltd       | resell    | —         | —             | high           | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            |
-| pet.ski         | premium   | $800.50   | $854          | high           | medium | 3      | unstoppable                                                        |
-| jay.immo        | available | $27.20    | $27.20        | high           | low    | 3      | cloudflare                                                         |
-| cosmic.gallery  | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC                                                   |
-| deal.food       | premium   | $275      | $275          | high           | low    | 4      | dynadot                                                            |
-| kfc.lease       | available | $56.99    | $56.99        | high           | low    | 3      | namesilo                                                           |
-| evolve.best     | resell    | —         | —             | high           | medium | 6      | Dynadot Inc                                                        |
-| earn.dad        | premium   | $257.92   | $257.92       | high           | medium | 4      | spaceship                                                          |
-| nhs.srl         | available | $28.04    | $28.04        | high           | low    | 3      | dynadot                                                            |
-| mantra.bot      | resell    | —         | —             | high           | low    | 6      | Dynadot, LLC                                                       |
-| elms.study      | premium   | $51.95    | $51.95        | medium         | low    | 4      | spaceship                                                          |
-| pls.christmas   | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                                           |
-| queens.biz      | resell    | —         | —             | high           | low    | 6      | Dynadot Inc                                                        |
-| give.diy        | premium   | $910      | $1,300        | high           | medium | 4      | namecheap                                                          |
-| she.nyc         | available | $26.08    | $26.08        | high           | medium | 3      | spaceship                                                          |
-| scifi.now       | resell    | —         | —             | high           | low    | 6      | —                                                                  |
+The first 20 rows of the file, in the file's order.
 
-These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
+| domain               | status    | purchase_price | renewal_price | attractiveness | demand | length |
+| -------------------- | --------- | -------------- | ------------- | -------------- | ------ | ------ |
+| boldness.farm        | available | $30.20         | $30.20        | high           | low    | 8      |
+| headmaster.clothing  | available | $32.99         | $32.99        | high           | low    | 10     |
+| ripen.click          | premium   | $72.65         | $103.70       | high           | low    | 5      |
+| fandango.im          | available | $4.18          | $6.73         | high           | low    | 8      |
+| manhood.nexus        | available | $14            | —             | high           | low    | 7      |
+| impactful.care       | available | $20            | —             | high           | low    | 9      |
+| souffle.win          | available | $4.48          | $5.55         | high           | low    | 7      |
+| befit.win            | premium   | $448           | $53.92        | high           | low    | 5      |
+| cookware.organic     | available | $66.20         | $66.20        | high           | low    | 8      |
+| impresario.tax       | available | $7.96          | $54.02        | high           | low    | 10     |
+| potatoes.my          | premium   | $91.96         | $91.96        | medium         | low    | 8      |
+| carers.hamburg       | available | $69.98         | $73.98        | medium         | low    | 6      |
+| refresher.press      | available | $62.20         | $62.20        | high           | low    | 9      |
+| yingyang.delivery    | available | $5.03          | $58           | high           | low    | 8      |
+| laserwire.online     | available | $1.96          | $28.84        | high           | low    | 9      |
+| recommender.help     | available | $2.99          | $26.97        | high           | low    | 11     |
+| categorise.directory | available | $8.99          | $32.99        | high           | low    | 10     |
+| unparalleled.forsale | available | $16.99         | $36.99        | high           | low    | 12     |
+| alleviate.organic    | available | $17            | —             | high           | low    | 9      |
+| cresting.boats       | available | $1.54          | $14.21        | high           | low    | 8      |
 
-## 🚀 Next move
+## What is in the data
 
-You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
+- `domain`: Fully qualified domain name.
+- `status`: Current acquisition state for the domain in the public extract.
+- `purchase_price`: Visible purchase price when available.
+- `renewal_price`: Visible renewal price when available.
+- `attractiveness`: Public composite naming band used as a decision-support signal.
+- `demand`: Public buyer-pressure band when available.
+- `length`: Character count without the TLD.
+- `registrar`: Registrar name when known.
+- `created_at`: Creation timestamp when known.
+- `expires_at`: Expiry timestamp when known.
 
-| GitHub extract          | Unique Domains                                       |
-| ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | ~5,370,000 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | ~30,900 high-demand names under $2,500               |
-| No persistence          | Radar, saved search, and alerts                      |
-| No naming workflow      | Radar from a naming brief, shortlist, and next steps |
+Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
-If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
+## Methodology
 
-[Create Radar](https://unique.domains/domains/positive?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=top_create_radar) · [Start a naming Radar](https://unique.domains/domains/positive?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=related_pricing)
+- The files hold 1,000 rows of the ~5,460,000 names in the live list today.
+- Every row is a one-word domain name.
+- Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
+- The live count marked with a tilde is estimated from a 2 percent page sample of the catalog and rounded to three significant digits; it moves between nights. The rows in the files are real rows.
 
-## 🧱 Field summary
+More in [METHODOLOGY.md](./METHODOLOGY.md).
 
-- `domain`, Fully qualified domain name.
-- `status`, Current acquisition state for the domain in the public extract.
-- `purchase_price`, Visible purchase price when available.
-- `renewal_price`, Visible renewal price when available.
-- `attractiveness`, Public composite naming band used as a decision-support signal.
-- `demand`, Public buyer-pressure band when available.
-- `length`, Character count without the TLD.
-- `registrar`, Registrar name when known.
-- `created_at`, Creation timestamp when known.
-- `expires_at`, Expiry timestamp when known.
-- `status_verified_at`, When status was last established against the registry. Null means never checked.
+## Update policy
 
-See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
+- The files are rebuilt every night from the same export.
+- The snapshot is the day of the rebuild; each row's status is the last one stored, not a reading of that day.
+- The files hold the public extract, not the whole live list.
 
-## ⚠️ Methodology and caveats
+## How to cite
 
-These are one-word domain names scored for positive tone, drawn from over 500 TLD extensions. Most are available to register outright, with a smaller share held as premium or resale listings. Pricing skews affordable — the median ask sits at $282.23, and the vast majority list under $500 — while a thin top tier reaches into five figures. The set spans mainstream and niche extensions alike, giving founders brandable options and investors broad TLD coverage to compare.
+> Unique Domains, Positive One-Word Domains, https://unique.domains/domains/positive, CC BY 4.0
 
-- 2.59M available, 297K premium, 113K resale domains in this set
-- Median ask $282.23 across 506 TLDs, incl. .expert, .ninja, .zone
-- Most names price under $500; only 3,650 exceed $10K
-- 1.7M names are easy to spell; 216K are launch-ready
+Citation metadata: [CITATION.cff](./CITATION.cff). A DOI follows once Zenodo mints one.
 
-See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
+## Related datasets
 
-## 🔄 Update policy
+- [Every one-word domain](https://github.com/UniqueDomains/oneword-domains) (the hub)
 
-- This repository is refreshed regularly from the same export pipeline used for public dataset repos.
-- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
-- The README count targets the live catalog count from the public landing response when available.
-- The CSV and JSON files contain the public extract only and may not match the full live catalog size.
-- Stable historical references should be published via GitHub Releases outside this repository snapshot.
+One-word domains by ending:
 
-See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
+- [.com](https://github.com/UniqueDomains/com-oneword-domains), [page](https://unique.domains/tld/com?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=related_tld_page)
+- [.ai](https://github.com/UniqueDomains/ai-oneword-domains), [page](https://unique.domains/tld/ai?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=related_tld_page)
+- [.io](https://github.com/UniqueDomains/io-oneword-domains), [page](https://unique.domains/tld/io?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=related_tld_page)
+- [.app](https://github.com/UniqueDomains/app-oneword-domains), [page](https://unique.domains/tld/app?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=related_tld_page)
+- [.co](https://github.com/UniqueDomains/co-oneword-domains), [page](https://unique.domains/tld/co?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=related_tld_page)
+- [.xyz](https://github.com/UniqueDomains/xyz-oneword-domains), [page](https://unique.domains/tld/xyz?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=related_tld_page)
 
-## 📝 How to cite
+Lists:
 
-Suggested citation:
+- [Expired](https://github.com/UniqueDomains/expired-oneword-domains)
+- [Expiring](https://github.com/UniqueDomains/expiring-oneword-domains)
+- [Brandable](https://github.com/UniqueDomains/brandable-oneword-domains)
+- [Short](https://github.com/UniqueDomains/short-oneword-domains)
 
-> Unique Domains. *Positive One-Word Domains*. Version 2026-11-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+Every ending Unique Domains tracks: [unique.domains/tld](https://unique.domains/tld?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=related_hub).
 
-GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
+## About Unique Domains
 
+[Unique Domains](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=about) tracks one-word domain names across the endings people build on: which are free to register, what they cost to hold and what names of each ending sell for. The datasets in this organization are its public extracts, refreshed every night.
 
-## 🔗 Related links
-
-- [Live search](https://unique.domains/domains/positive?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=top_open_search)
-- [Glossary](https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=top_methodology)
-- [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=related_pricing)
-- [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=top_api_docs)
-- [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
-
-## 📬 Contact
-
-Questions, corrections, or partnership requests: `kai@unique.domains`
+Questions and corrections: `kai@unique.domains`
