@@ -4,7 +4,7 @@
 
 This repository is the public extract of the page at `https://unique.domains/domains/positive`.
 
-- The files hold 1,000 rows of the ~5,410,000 names in the live list today.
+- The files hold 1,000 rows of the ~5,390,000 names in the live list today.
 - Every row is a one-word domain name.
 - Status and prices are the latest on record for each name, not a reading taken on the day of the rebuild.
 - The live count marked with a tilde is estimated from a 2 percent page sample of the catalog and rounded to three significant digits; it moves between nights. The rows in the files are real rows.

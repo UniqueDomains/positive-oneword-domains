@@ -1,8 +1,8 @@
-# Positive One-Word Domains (~5,410,000)
+# Positive One-Word Domains (~5,390,000)
 
 1,000 real positive one-word domain names, refreshed every night, each with its status, the price to register or buy it and what it renews at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. [The list behind this file](https://unique.domains/domains/positive) holds ~5,410,000 names today; the file is a sample of it, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. [The list behind this file](https://unique.domains/domains/positive) holds ~5,390,000 names today; the file is a sample of it, in the list's own neutral order, not a ranking.
 
 Live page: [unique.domains/domains/positive](https://unique.domains/domains/positive?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=top_page)
 
@@ -64,7 +64,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the ~5,410,000 names in the live list today.
+- The files hold 1,000 rows of the ~5,390,000 names in the live list today.
 - Every row is a one-word domain name.
 - Status and prices are the latest on record for each name, not a reading taken on the day of the rebuild.
 - The live count marked with a tilde is estimated from a 2 percent page sample of the catalog and rounded to three significant digits; it moves between nights. The rows in the files are real rows.
