@@ -1,10 +1,10 @@
-# Positive One-Word Domains (~5,330,000)
+# Positive One-Word Domains (~5,430,000)
 
 **Looking for a name, not a file?** [Find the strongest domain still available for your business](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=top_home).
 
 1,000 real positive one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. [The list behind this file](https://unique.domains/domains/positive) holds ~5,330,000 names today; the file is a sample of it, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. [The list behind this file](https://unique.domains/domains/positive) holds ~5,430,000 names today; the file is a sample of it, in the list's own neutral order, not a ranking.
 
 Live page: [unique.domains/domains/positive](https://unique.domains/domains/positive?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=top_page)
 
@@ -68,7 +68,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the ~5,330,000 names in the live list today.
+- The files hold 1,000 rows of the ~5,430,000 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 - The live count marked with a tilde is estimated from a 2 percent page sample of the catalog and rounded to three significant digits; it moves between nights. The rows in the files are real rows.
@@ -112,6 +112,6 @@ Every ending Unique.domains tracks: [unique.domains/tld](https://unique.domains/
 
 [Unique.domains](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_positive_oneword_domains&utm_content=about) tracks one-word domain names across the endings people build on: which are free to register, what they cost to hold and what names of each ending sell for. The datasets in this organization are its public extracts.
 
-From code: the [Node.js SDK and CLI](https://github.com/UniqueDomains/nodejs) (`npm install @uniquedomains/sdk`), the [Python client](https://github.com/UniqueDomains/python) (`pip install uniquedomains`) and the [MCP server](https://github.com/UniqueDomains/mcp-server) for AI assistants, hosted at `https://mcp.unique.domains/mcp`.
+From code: the [Node.js SDK and CLI](https://github.com/UniqueDomains/nodejs) (`npm install domain-name-api`), the [Python client](https://github.com/UniqueDomains/python) (`pip install uniquedomains`) and the [MCP server](https://github.com/UniqueDomains/mcp-server) for AI assistants, hosted at `https://mcp.unique.domains/mcp`.
 
 Questions and corrections: `kai@unique.domains`
